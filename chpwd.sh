@@ -3,7 +3,7 @@
 ######  Modification du mot de passe administrateur ####
 #
 # Auteur : M.Wullens
-# Date : 20180918
+# Date : 20200211
 #
 user=$1
 
